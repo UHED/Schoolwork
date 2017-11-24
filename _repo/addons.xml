@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.jellybeantv" name="Jellybean TV" version="4.4.017" provider-name="Jellybean">
+<addon id="plugin.video.jellybeantv" name="Jellybean TV" version="4.4.022" provider-name="Jellybean">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.addon.common"/>
     <import addon="script.module.pyxbmct"  />
     <import addon="script.module.requests"/>
+    <import addon="script.module.dateutil"/>
     <import addon="script.tvguide.Vader"/>
 
   </requires>
