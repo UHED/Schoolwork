@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.VADER" name="[COLOR red]Vader Streams[/COLOR]" version="4.4.026" provider-name="DarthVader">
+<addon id="plugin.video.jellybeantv" name="Jellybean TV" version="4.4.026" provider-name="Jellybean">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.addon.common"/>
@@ -21,7 +21,7 @@
 
 
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">[COLOR red]Vader-Streams[/COLOR]</summary>
+    <summary lang="en">Jellybean</summary>
 	<description lang="en">Get all your Live Sports n Live TV here</description>
     <platform>all</platform>
   </extension>
