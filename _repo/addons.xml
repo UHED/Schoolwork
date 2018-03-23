@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.jellybeantv" name="JellyBean TV" version="4.4.005" provider-name="JellyBean">
+<addon id="plugin.video.jellybeantv" name="JellyBean TV" version="4.5.006" provider-name="JellyBean">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.addon.common"/>
@@ -44,7 +44,7 @@
     </extension>
 </addon>
 
-<addon id="script.tvguide.Vader" name="TV Guide" version="1.4.71" provider-name="IPTVGuy">
+<addon id="script.tvguide.Vader" name="TV Guide" version="1.4.72" provider-name="IPTVGuy">
     <requires>
         <import addon="xbmc.python" version="2.19.0"/>
         <import addon="script.module.simplejson" version="3.3.0"/>
