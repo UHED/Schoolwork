@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.jellybeantv" name="JellyBean TV" version="4.6.005" provider-name="JellyBean">
+<addon id="plugin.video.jellybeantv" name="JellyBean TV" version="4.6.008" provider-name="JellyBean">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.addon.common"/>
